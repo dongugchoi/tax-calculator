@@ -1,2 +1,24 @@
 # tax-calculator
-## 세금 신고시 세액공제를 편리하게 이용할 수 있는 계산해주는 Web 입니다.
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
